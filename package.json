@@ -1,0 +1,12 @@
+{
+    "name": "cursoraspberry",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Mecatronica.json",
+            "credentialsFile": "flows_Mecatronica_cred.json"
+        }
+    }
+}
